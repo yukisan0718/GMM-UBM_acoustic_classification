@@ -1,0 +1,1 @@
+Please put audio files belonging to the same category in this directory. The files must be ".wav" format.

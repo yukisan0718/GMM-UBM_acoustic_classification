@@ -1,0 +1,1 @@
+It's no problem to leave this directory empty. UBM files (weight, mean, covariance) would be created automatically in it.

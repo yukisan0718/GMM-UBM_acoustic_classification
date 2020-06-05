@@ -1,0 +1,1 @@
+It's no problem to leave this directory empty. ".txt" format files for MFCCs would be created automatically in it.
